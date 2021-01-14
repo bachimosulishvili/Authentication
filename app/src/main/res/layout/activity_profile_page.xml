@@ -39,12 +39,10 @@
                         android:id="@+id/ProfilePic"
                         android:layout_width="300px"
                         android:layout_height="300px"
-                        android:layout_marginTop="70dp"
-                        android:background="@drawable/Profile" />
+                        android:layout_marginTop="70dp" />
 
 
                 </LinearLayout>
-
 
                 <TextView
                     android:background="@color/white"
